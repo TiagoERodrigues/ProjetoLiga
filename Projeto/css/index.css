@@ -1,0 +1,78 @@
+#slider{
+	background-image: url("img/fernando.jpg");
+}
+
+#slider2{
+  background-image: url("img/Paladins.jpg");
+  background-repeat: no-repeat;
+  background-repeat: round;
+}
+
+#clt_sec{
+    text-align: center;
+    color: white;
+}
+
+#titulo{
+  text-align: center;
+	color: white;
+	font-family: ;
+}
+
+#sobre{
+  text-align: center;
+	color: white;
+	font-family: ;
+}
+
+#pricing_sec{
+  text-align: center;
+}
+
+.sngl_pricing{
+  text-align: right;
+}
+
+#rules{
+  background-image: url("img/barik.jpg");
+	color: white;
+  text-align: center;
+	background-repeat: no-repeat;
+	
+}
+
+#regras{
+  color: black;
+}
+
+#tabela{
+  background-image: url("img/bk.jpg");
+  background-repeat: no-repeat;
+  background-repeat: round;
+}
+
+#tabela2{
+  background-image: url("img/strike3.jpg");
+  background-repeat: no-repeat;
+	background-repeat: round;
+}
+
+#jogos{
+  background-image: url("img/maeve.jpg");
+	color: white;
+	text-align: center;
+}
+
+#form{
+	background-image: url("img/mal.png");
+	color: white;
+	text-align: center;
+}
+#texto{
+	color: red;
+}
+
+.posi{
+	text-align: center;
+	color: white;
+}
